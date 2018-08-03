@@ -1,0 +1,36 @@
+body
+{
+	font-family: Arial;
+	color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	background-color: #000000;
+}
+
+nav
+{
+	background-color: #030303;
+	height: 50px;
+	padding-left: 5vw;
+	padding-right: 5vw;
+}
+
+.bumbotron
+{
+	margin-top: 25vh;
+	margin-left: 16vw;
+	margin-right: 16vw;
+	text-align: center;
+	font-family: Arial;
+}
+
+.bumbotron h1
+{
+	font-size: 45px;
+}
+
+.bumbotron h2
+{
+	font-size: 25px;
+	font-weight: normal;
+}
