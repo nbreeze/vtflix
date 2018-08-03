@@ -10,7 +10,7 @@ Configuration:
 
 Notes:
 - This web application was developed with Ampps, PHP 7.1, and MySQL.
-- You can register an account (while as an unregistered user) by going to the top left of any page, and selecting the username which will show a dropdown of options. This is the User Menu. Select the Login/Register button to login or register.
+- You can register an account (while as an unregistered user) by going to the top right of any page, and selecting the username which will show a dropdown of options. This is the User Menu. Select the Login/Register button to login or register.
 - You can view friend requests in your Account Settings, which is accessible through the Settings option in the User menu.
 	- Overview of the Account Settings hasn't been implemented, but accepting/declining friend requests from other users is functional.
 - Search for movies, collections, tv episodes, actors, or directors in the index page of the website. Suggestions will automatically show upon entering some characters. Clicking on a suggestion will take you to the page containing info about that particular piece of media or a biography of an actor or director.
