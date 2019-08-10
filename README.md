@@ -1,5 +1,8 @@
 # VTFlix
 
+## Purpose
+This website was originally created as an assignment for a database class.
+
 ## Requirements
 - PHP Version 7.0+
 	- Any version less won't work because this uses the mysqli module (mysql module was removed in version 7.0).
